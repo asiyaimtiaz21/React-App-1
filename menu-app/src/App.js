@@ -16,7 +16,7 @@ const menuData = [
     {
     itemId: 2,
     itemPrice: '10',
-    itemName: 'Cheese Ravioli',
+    itemName: 'Cheese Raviol',
     itemDescription: 'Cheese-filled ravioli served with house red sauce.',
     },
 
